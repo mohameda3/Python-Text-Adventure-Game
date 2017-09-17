@@ -1,0 +1,84 @@
+go north
+[menu]
+score
+back
+pick up knife
+[menu]
+inventory
+back
+pick up cheat sheet
+[menu]
+inventory
+back
+go west
+swap sheets
+[menu]
+inventory
+back
+go south
+go east
+go south
+go east
+drop exam answer sheet
+[menu]
+inventory
+back
+go south
+confront man
+library
+no
+confront man
+0
+1
+[menu]
+inventory
+carry weight
+back
+go west
+pick up favorite hat
+go west
+[menu]
+inventory
+back
+pick up peculiar chocolate bar
+[menu]
+inventory
+back
+go east
+go east
+go east
+[menu]
+score
+back
+drop favorite hat
+drop peculiar chocolate bar
+[menu]
+score
+back
+go west
+go south
+pick up backpack
+go north
+go north
+pick up exam answer sheet
+[menu]
+inventory
+back
+go north
+pick up t-card
+[menu]
+inventory
+back
+go north
+pick up lucky pen
+[menu]
+inventory
+back
+go south
+go south
+go south
+go east
+go east
+enter the exam
+1
+write the exam

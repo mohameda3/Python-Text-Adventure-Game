@@ -1,0 +1,146 @@
+LOCATION 1
+5
+1
+You stand in the middle of the main field surrounded by buildings.
+You are alone, standing in the middle of the field. The field is completely empty without a single sound to be heard.
+The UTM library is to your East and Deerfield Hall to your West. You see residence buildings located Southward and a
+long road to the principal's home in the opposite direction.
+END
+
+LOCATION 2
+5
+0
+You are one the second floor of Deerfield Hall, inside Arnold's office.
+You are on the second floor of Deerfield Hall, inside Arnold's office. You see the exam answer sheet laying on his desk.
+If you were to replace it with your own cheat sheet, no one would notice that the answer sheet is missing.
+You may not see much outside but you observe a few things inside. Your surroundings bustle with the activity of students,
+professors and teaching assistants. You greet your favorite professor as he passes you. Below you is the first floor of
+Deerfield Hall. To the east is the principal's house.
+END
+
+LOCATION 3
+5
+1
+You admire the home of the Principal from afar. To the East is the IB building and to the West is the second floor of Deerfield Hall.
+You admire the home of the Principal from afar. What would you do with such a home? A beautiful garden surrounds it
+and the area is silent. The silence is intimidating but the beauty keeps your mind occupied. To the East is the IB building
+and to the West is the second floor of Deerfield Hall.
+END
+
+LOCATION 4
+5
+1
+You are inside the IB building. To the East is a lengthy road but Southward lies the UTM library.
+You are inside the IB building. Students flood the place, rushing on their way to their next lecture. The open concept
+of the building allows you to see the study rooms above you and the interesting color of the walls. To the East is a
+lengthy road to the principal's home but Southward lies the UTM library.
+END
+
+LOCATION 5
+5
+1
+You stand on the first floor of Deerfield Hall with the second above you. The field is to your East.
+You stand on the first floor of Deerfield Hall with the second above you. The scent of fresh food and coffee fills the air.
+Many students are studying at tables. You wish you had time to do so yourself. The field is to your East and Arnold's
+office is above you.
+END
+
+LOCATION 6
+5
+1
+You are inside of the UTM library, East of the field. The CCT building is South.
+You are inside of the UTM library, East of the field. It is a quiet and tranquil environment. There are plenty of study
+spaces and computers. Almost every seat you can see is occupied with students studying for their upcoming exams. Someone
+has left a few written on sheets of paper as well as other school related items on one desk.
+The CCT building is South.
+END
+
+LOCATION 7
+5
+1
+You are outside of the Erindale Hall residences. You do not have the key for any of them. The Pub is to the South.
+You are outside of the Erindale Hall residences. You do not have the key for any of them. Living on residence would
+have been very convenient for everything except your wallet. The residences are surrounded by nature and it is a sight
+to behold. Squirrels can be seen scurrying up the trees. The Blind Duck Pub is to the South.
+END
+
+LOCATION 8
+5
+1
+Inside the CCT Building, you notice the clever architecture. You can not see much from here except the field far away.
+Inside the CCT Building, you notice the clever architecture. One large walls is built from mostly glass and metal.
+The whole structure has a beautifully complicated design. You can not see much from here except the field which is far away.
+END
+
+LOCATION 9
+5
+1
+Many objects can be seen on display from where you are standing in the Blackwood gallery.
+Many objects can be seen on display from where you are standing in the Blackwood gallery. There are gorgeous crystals
+hidden behind panes of glass. You are standing in a long hallway with windows ono one side and lockers on the other.
+Amongst the lockers are doors that open to occupied rooms. This series of hallways is attached to the Davis building
+to the South.
+END
+
+LOCATION 10
+5
+1
+You enter the Colman Commons - a place familiar to students who live in one of the many residences.
+You enter the Colman Commons - a place familiar to students who live in one of the many residences. Great food can be
+bought here. The architecture is perhaps not as fancy as some of the other structures in this campus but you like the
+quiet and secluded atmosphere offered here. The Blind Duck Pub is Eastward.
+END
+
+LOCATION 11
+5
+1
+It is very loud here! You are inside of the Blind Duck Pub. Why is everyone yelling!?
+It is very loud here! You are inside of the Blind Duck Pub. Why is everyone yelling!? Drinks can be bought here as well
+as some delicious bubble tea. A group of students are busy playing billards. They are competitive and loud. This would
+not be much of a great spot for studying. Through the glass walls you see the Kaneff/Innovation Complex to the East.
+END
+
+LOCATION 12
+5
+4
+You stand inside of the circularly shaped Kaneff/Innovation Complex. There is a dangerous individual in your vicinity.
+You stand inside of the circularly shaped Kaneff/Innovation Complex. There are many empty seats and tables around you.
+A dangerous looking individual is looking at you from a distant table. Should you investigate? The smooth white walls
+around you give you a serene feeling. This is a nice spot to study, perhaps you did so yesterday? You remember the bus
+stop being South of this complex and the Davis building cafeteria to the East.
+END
+
+LOCATION 13
+5
+1
+You enter the Davis Building Cafeteria. Your locker is here.
+You enter the Davis Building Cafeteria. Your locker is here. A humongous assortment of smells attack your nose, both
+pleasant and not. You frequently eat here. It is very loud and busy and there is constant movement. Many objects lie
+abandoned on the empty tables around you. The Davis Building is attached to the Recreation, Athletics and Wellness
+Centre to the East.
+END
+
+LOCATION 14
+5
+2
+You are indie the Recreation, Athletics and Wellness Centre. The exam room is up ahead guarded by a tall man with a badge.
+You are inside the Recreation, Athletics and Wellness Centre. It is overflowing with activity. You can see many people
+working out around you. There are treadmills, weight machines, cycling machines, and even a pool. You are motivated to
+go and get some exercise, but it will have to wait after the exam ahead. The doors of triumph and failure are ahead.
+There is a security guard eyeing. Approach with caution.
+END
+
+LOCATION 15
+5
+1
+You visit this bus stop at least twice a day. It is crowded with students squeezing into idling busses.
+You visit this bus stop at least twice a day. It is crowded with students squeezing into idling busses. There is a glass
+structure where you can wait, shielded from the elements. To the North is the Kaneff/Innovation Complex.
+END
+
+LOCATION 16
+5
+3
+You are now in the gym ready to take your exam. Your priorities are to return with victory, not just alive.
+You are now in the gym ready to take your exam. Your priorities are to return with victory, not just alive.
+END

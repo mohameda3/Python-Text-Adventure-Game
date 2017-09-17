@@ -1,0 +1,47 @@
+Enhancement Name	Description
+
+Weight of Items		Each item from item.txt can be assigned a weight. The player has a designated maximum weight of
+gameplay1.txt		carryable items. A check if performed before each item is picked up if it goes above the limit
+					created by the maximum weight to prevent the player from picking up any item they please. This
+					creates the element of weight based inventory management. The current carry weight of items being
+					carried as well as the maximum weight can be seen from the "Carry Weight" option in the menu.
+					This adds a layer of decision making as the sum of the weight of the items you need to bring into
+					your exam is equal to your initial max carry weight, therefore if you are aiming for a higher score
+					you will need to drop the exam items and pick them up later.
+
+Swappable Items		Certain items are able to be swapped for other items that are otherwise unavailable.
+gameplay2.txt		This makes the player evaluate the importance of each item and decide which one would
+					be best to keep and whether they should waste their limited moves and find out whether or
+					nor this item can be swapped for.
+
+Security Check		Before the exam room can be entered and the exam can be written, a security guard will check the
+gameplay3.txt		player. The player will be checked for the minimum items required to enter the exam room and also
+					whether any banned items are in the player's inventory. The player has 2 attempts to pass this check
+					before the security officer kicks the player out and the player misses their exam(game ends).
+					This allows for an extra layer of difficulty as if even if you have a high score and you attempt
+					to go to the exam, your game will end and you will still lose.
+
+Inspectable Items	Any item from the player's inventory can be inspected from the menu. If the player is unsure of
+gameplay4.tx		the purpose of a specific item then they may receive a hint when they inspect the specific item.
+
+Dangerous
+Individual			The player can approach a dangerous individual. This individual will offer the player a swap
+Puzzle				if they answer a riddle. This individual will give an item that is not available via pick up
+gameplay5.txt		anywhere on the map and will also relieve a burden off the player(the knife). The player has
+					2 encounters with this mysterious individual, each asking a different riddle. The bonus item
+					that can be rewarded will be extremely beneficial to the player's exam score.
+
+Droppable Items		Any item from the player's inventory can be dropped. The dropped item will stay at the dropped
+gameplay6.txt		location. The player can move around freely and return to the location at any time and pick the
+					dropped item back up into their inventory and remove it from the location inventory.
+
+Accessibility		Accessibility levels (attributes of each location object) were a unique way that we were able to work
+					around hard coding events into certain location numbers. Accessibilty level 1 mans basic commands
+					such as go, drop, and pick up are allowed in this location. Accessibility level 0 means that an item
+					exists in this location however you cannot pick up or drop an item in this location. In order to
+					get this item you must �swap� (equivalent to trade) for it. Accessibility level 2 means that an
+					event is occurring in this location and you cannot move past this location until you complete this
+					event. Here you cannot drop or pick up items as well. Accessibility level 3 means all commands are blocked
+					because you are in the exam room, and you have all the necessary items in order to win.
+					Finally accessibility level 4 means that there is an event in this location, however it can be ignored
+					if the player choses to do so. Once again the player cannot drop or pickup items.

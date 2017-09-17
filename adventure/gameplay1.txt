@@ -1,0 +1,8 @@
+go north
+pick up cheat sheet
+pick up knife
+go east
+[menu]
+carry weight
+back
+pick up lucky pen

@@ -1,0 +1,10 @@
+go north
+pick up knife
+go south
+go east
+go south
+go south
+go east
+go east
+enter the exam
+1

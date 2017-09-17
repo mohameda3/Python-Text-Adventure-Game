@@ -1,0 +1,11 @@
+go south
+go south
+go east
+go east
+go east
+enter the exam
+1
+enter the exam
+1
+enter the exam
+1

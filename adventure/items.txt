@@ -1,0 +1,62 @@
+Cheat Sheet
+3
+16
+10
+2
+You have found your precious page filled with information for the exam. It is faded and crinkly but will suffice.
+
+Lucky Pen
+4
+16
+10
+5
+In the past you have aced many exams with this pen, you need it for the upcoming exam. It is green and smooth.
+
+T-card
+6
+16
+10
+3
+Your identification as a University of Toronto student. This is required for writing any test or exam.
+
+Exam Answer Sheet
+2
+16
+25
+2
+A page filled with all the answers to the upcoming exam, this will prove to be very useful once you are writing the exam.
+
+Favorite Hat
+11
+13
+10
+8
+You have worn this comfortable hat through thick and thin. You should put this in your locker in the Davis Caf.
+
+Peculiar Chocolate Bar
+10
+13
+10
+2
+It is labelled as "Chewy Louey Chocolate Bar". You should probably put this into your locker.
+
+Backpack
+15
+0
+0
+-10
+This backpack grey in colour, and has many pockets. Wearing this adds neg. weight allowing you to carry more.
+
+Knife
+3
+0
+0
+8
+A small knife with a shiny and sharp edge. You wonder why you are carrying this. Could this cause you trouble at the exam room?
+
+Golden Rabbit's Foot
+12
+16
+50
+0
+You feel weird holding this. It weights less than a feather but it is coated in gold. How is this possible?

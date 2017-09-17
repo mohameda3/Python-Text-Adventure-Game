@@ -1,0 +1,12 @@
+go north
+pick up knife
+go south
+drop knife
+[menu]
+inventory
+back
+go east
+go west
+pick up knife
+[menu]
+inventory

@@ -1,0 +1,11 @@
+go north
+pick up knife
+go south
+go south
+go south
+go east
+confront man
+BOOKSTORE
+confront man
+0
+1

@@ -1,0 +1,4 @@
+go north
+pick up knife
+[menu]
+inspect knife

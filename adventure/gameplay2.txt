@@ -1,0 +1,6 @@
+go north
+pick up cheat sheet
+go west
+swap sheets
+swap sheets
+swap sheets
