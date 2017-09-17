@@ -1,0 +1,1 @@
+Python text-based adventure game where players would try to collect a number ofspecific items and head to a destination before time runs out.
